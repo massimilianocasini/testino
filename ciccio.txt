@@ -1,2 +1,7 @@
 # testino
+<<<<<<< HEAD
 senza  
+=======
+senza
+prova modifica
+>>>>>>> 11494d9de8c3d006033dcd7672a1f642eb0964e4
